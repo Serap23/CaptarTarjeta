@@ -1,0 +1,14 @@
+program CaptarTarjeta;
+
+uses
+  Vcl.Forms,
+  Principal in 'Principal.pas' {Tarjeta};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TTarjeta, Tarjeta);
+  Application.Run;
+end.

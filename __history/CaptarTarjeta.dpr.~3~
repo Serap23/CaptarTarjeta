@@ -1,0 +1,14 @@
+program CaptarTarjeta;
+
+uses
+  Vcl.Forms,
+  Principal in 'Principal.pas' {POSConnect};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPOSConnect, POSConnect);
+  Application.Run;
+end.

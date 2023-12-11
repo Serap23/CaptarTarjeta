@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/27 08:29:13.000.896,=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2020/07/27 08:29:50.000.564,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\CaptarTarjeta.dproj=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2020/07/27 08:37:42.000.099,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\Principal.pas=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2020/07/27 08:37:42.000.099,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\Principal.dfm=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2020/07/27 08:37:47.000.282,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\CaptarTarjeta.dproj=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\CaptarTarjeta.dproj</Transaction>
+    <Transaction>2020/08/06 10:22:39.000.809,=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll</Transaction>
+    <Transaction>2020/08/06 10:22:56.000.468,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll=</Transaction>
+    <Transaction>2020/08/06 10:23:05.000.843,=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll</Transaction>
+    <Transaction>2020/08/06 10:23:48.000.137,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll=</Transaction>
+    <Transaction>2020/08/06 10:44:01.000.107,=C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll</Transaction>
+    <Transaction>2020/08/06 14:42:59.000.229,C:\Users\BRYAN\Documents\Embarcadero\Studio\Projects\Captar Tarjeta\ECRti.dll=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Principal.pas"/>
+    <File Path="Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
